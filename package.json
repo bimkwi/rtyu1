@@ -1,0 +1,16 @@
+{
+  "name": "rtyu1",
+  "theme": "syntax",
+  "version": "0.0.1",
+  "description": "เกมส์ Penalty Game เกมส์ยิงจุดโทษ เหมือนจริง ซึ่งลักษ ณะของการเดิ มพั นซึ่ งจะ ทำให้ผู้เล่ น",
+  "keywords": [
+    "เกมส์ Penalty Game",
+    "เกมออนไลน์",
+    "เกมยิงจุดโทษ"
+  ],
+  "repository": "https://github.com/bimkwi/rtyu1",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
